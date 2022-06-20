@@ -1,4 +1,4 @@
-# caregiver
+# CareGiver
 
 A new Flutter project.
 
