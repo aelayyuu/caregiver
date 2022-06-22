@@ -9,7 +9,7 @@ jobs:
   build:
     # This job will run on ubuntu virtual machine
     name: Build & Release
-    runs-on: linux-latest #can use window,macos and linux
+    runs-on: ubuntu-latest #can use window, ubuntu macos and linux 
     steps:
       # Setup Java environment in order to build the Android app.
       - uses: actions/checkout@v1
